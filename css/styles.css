@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+li {
+    color: white;
+   /* list-style-position: inside;*/
+}
+
+ul, ol {
+    display: inline-block;
+    background-color: rgb(85, 85, 206);
+}
+
+.main {
+    background-color: rgb(146, 170, 146);
+}
