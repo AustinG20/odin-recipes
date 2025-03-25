@@ -15,3 +15,12 @@ ul, ol {
 .main {
     background-color: rgb(146, 170, 146);
 }
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.item{
+    flex: 1;
+}
